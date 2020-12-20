@@ -1,0 +1,38 @@
+.banner-box {
+  margin-top: 42px;
+  width: 100%;
+  background-color: red;
+  position: relative;
+}
+
+.hero-image {
+  background-image: url("../..//assets/pic_ture/banner.png");
+  background-color: #cccccc;
+  height: 268px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  font-size: 45px;
+  top: 85%;
+  left: 15%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.small-menu {
+  width: 100%;
+  height: 38px;
+  background-color: white;
+  position: absolute;
+}
+
+.small-menu-text-style{
+  padding-left: 41px;
+  font-size: 15px;
+}
